@@ -1,0 +1,532 @@
+00:00  INFO: Client commandline script started
+00:00  INFO: Connecting to localhost:61234
+00:00  INFO: Registering: bar
+00:00  INFO: Refresh requested
+00:05  INFO: 
+Black Score: 4
+White Score: 1
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|***01***
+5|********
+6|********
+7|********
+
+00:05  INFO: Player chose move: 24
+00:09  INFO: 
+Black Score: 6
+White Score: 1
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***01***
+3|***00***
+4|***000**
+5|********
+6|********
+7|********
+
+00:09  INFO: Player chose move: 22
+00:11  INFO: 
+Black Score: 7
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|*****0**
+2|**110***
+3|***00***
+4|***000**
+5|********
+6|********
+7|********
+
+00:11  INFO: Player chose move: 25
+00:15  INFO: 
+Black Score: 8
+White Score: 3
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|*****0**
+2|**1110**
+3|***000**
+4|***000**
+5|********
+6|********
+7|********
+
+00:15  INFO: Player chose move: 55
+00:17  INFO: 
+Black Score: 10
+White Score: 3
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|*****0**
+2|*00000**
+3|***100**
+4|***010**
+5|*****1**
+6|********
+7|********
+
+00:17  INFO: Player chose move: 11
+00:20  INFO: 
+Black Score: 11
+White Score: 4
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|*1***0**
+2|*01000**
+3|**0000**
+4|***010**
+5|*****1**
+6|********
+7|********
+
+00:20  INFO: Player chose move: 26
+00:24  INFO: 
+Black Score: 10
+White Score: 7
+Next player: white
+Board:
+ |01234567
+----------
+0|0*******
+1|*0***0**
+2|*001111*
+3|**0001**
+4|***010**
+5|*****1**
+6|********
+7|********
+
+00:24  INFO: Player chose move: 46
+00:26  INFO: 
+Black Score: 14
+White Score: 5
+Next player: white
+Board:
+ |01234567
+----------
+0|0*******
+1|*0***0**
+2|*0000000
+3|**0001**
+4|***0111*
+5|*****1**
+6|********
+7|********
+
+00:26  INFO: Player chose move: 13
+00:30  INFO: 
+Black Score: 17
+White Score: 4
+Next player: white
+Board:
+ |01234567
+----------
+0|0*******
+1|*0*1*0**
+2|*0001000
+3|**0001**
+4|***00000
+5|*****1**
+6|********
+7|********
+
+00:30  INFO: Player chose move: 54
+00:32  INFO: 
+Black Score: 17
+White Score: 6
+Next player: white
+Board:
+ |01234567
+----------
+0|0*******
+1|*0*1*0**
+2|*0001000
+3|**0011**
+4|***01000
+5|****01**
+6|***0****
+7|********
+
+00:32  INFO: Player chose move: 52
+00:36  INFO: 
+Black Score: 19
+White Score: 6
+Next player: white
+Board:
+ |01234567
+----------
+0|0*******
+1|*0*1*0**
+2|*0001000
+3|**0011**
+4|**000000
+5|**1*01**
+6|***0****
+7|********
+
+00:36  INFO: Player chose move: 64
+00:40  INFO: 
+Black Score: 21
+White Score: 6
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0*****
+1|*0*0*0**
+2|*0000000
+3|**0010**
+4|**001000
+5|**1*11**
+6|***01***
+7|********
+
+00:40  INFO: Player chose move: 36
+00:44  INFO: 
+Black Score: 23
+White Score: 6
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0*****
+1|*0*0*0**
+2|*0000000
+3|**000000
+4|**001100
+5|**1*11**
+6|***01***
+7|********
+
+00:44  INFO: Player chose move: 16
+00:48  INFO: 
+Black Score: 25
+White Score: 6
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0*****
+1|*0*0*01*
+2|*0000100
+3|**000000
+4|**010100
+5|**1*01**
+6|***00***
+7|****0***
+
+00:48  INFO: Player chose move: 05
+00:51  INFO: 
+Black Score: 27
+White Score: 6
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0**1*0
+1|*0*0*10*
+2|*0000000
+3|**000000
+4|**010100
+5|**1*01**
+6|***00***
+7|****0***
+
+00:51  INFO: Player chose move: 10
+00:54  INFO: 
+Black Score: 28
+White Score: 7
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0**1*0
+1|10*0*10*
+2|*1000000
+3|**100000
+4|**010000
+5|**1*00**
+6|***000**
+7|****0***
+
+00:54  INFO: Player chose move: 75
+00:56  INFO: 
+Black Score: 27
+White Score: 10
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0**1*0
+1|10*0*10*
+2|*1000100
+3|**100100
+4|**010000
+5|**1*000*
+6|***000**
+7|****01**
+
+00:56  INFO: Player chose move: 17
+00:59  INFO: 
+Black Score: 29
+White Score: 10
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0**100
+1|10*0*001
+2|*1000100
+3|**100100
+4|**010000
+5|**1*000*
+6|***000**
+7|****01**
+
+00:59  INFO: Player chose move: 14
+01:03  INFO: 
+Black Score: 29
+White Score: 12
+Next player: white
+Board:
+ |01234567
+----------
+0|0*0**100
+1|10*01111
+2|*0010100
+3|*0000100
+4|**010000
+5|**1*000*
+6|***000**
+7|****01**
+
+01:03  INFO: Player chose move: 73
+01:07  INFO: 
+Black Score: 31
+White Score: 12
+Next player: white
+Board:
+ |01234567
+----------
+0|0*00*100
+1|10*00111
+2|*0010000
+3|*0000100
+4|**010000
+5|**1*000*
+6|***000**
+7|***111**
+
+01:07  INFO: Player chose move: 20
+01:09  INFO: 
+Black Score: 32
+White Score: 13
+Next player: white
+Board:
+ |01234567
+----------
+0|0*00*100
+1|10000111
+2|11000000
+3|*0000100
+4|**010000
+5|**1*000*
+6|***000**
+7|***111**
+
+01:09  INFO: Player chose move: 53
+01:12  INFO: 
+Black Score: 30
+White Score: 17
+Next player: white
+Board:
+ |01234567
+----------
+0|0*000000
+1|10000011
+2|11000000
+3|*1000100
+4|**111000
+5|**11000*
+6|***110**
+7|***111**
+
+01:12  INFO: Player chose move: 01
+01:16  INFO: 
+Black Score: 31
+White Score: 18
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|11000011
+2|11000000
+3|*0000100
+4|0*111000
+5|**11000*
+6|***110**
+7|***111**
+
+01:16  INFO: Player chose move: 30
+01:20  INFO: 
+Black Score: 29
+White Score: 22
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|11000011
+2|11000000
+3|11111100
+4|0*111000
+5|**11000*
+6|***010**
+7|**0111**
+
+01:20  INFO: Player chose move: 50
+01:22  INFO: 
+Black Score: 32
+White Score: 21
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|11000011
+2|11000000
+3|11111100
+4|1*111000
+5|1*11000*
+6|***010**
+7|**00000*
+
+01:22  INFO: Player chose move: 67
+01:22  INFO: 
+Black Score: 32
+White Score: 23
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|11000011
+2|11000000
+3|11111100
+4|1*111100
+5|1*110000
+6|***010*1
+7|**00000*
+
+01:22  INFO: Player chose move: 66
+01:23  INFO: 
+Black Score: 32
+White Score: 25
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|11000011
+2|11000010
+3|11101110
+4|1*110110
+5|1*110010
+6|***01100
+7|**000000
+
+01:23  INFO: Player chose move: 62
+01:23  INFO: 
+Black Score: 34
+White Score: 25
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|11000011
+2|11000010
+3|11101110
+4|1*110110
+5|1*100010
+6|**011100
+7|*0000000
+
+01:23  INFO: Player chose move: 61
+01:23  INFO: 
+Black Score: 44
+White Score: 17
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|01000011
+2|01000010
+3|01101110
+4|0*110110
+5|0*100010
+6|00000000
+7|*0000000
+
+01:23  INFO: Player chose move: 70
+01:23  INFO: 
+Black Score: 47
+White Score: 16
+Next player: white
+Board:
+ |01234567
+----------
+0|01000000
+1|01000011
+2|01000010
+3|01101110
+4|0*010110
+5|00000010
+6|00000000
+7|10000000
+
+01:23  INFO: Player chose move: 41
+01:23  INFO: 
+Black Score: 46
+White Score: 18
+Next player: black
+Board:
+ |01234567
+----------
+0|01000000
+1|01000011
+2|01000010
+3|01101110
+4|01110110
+5|00000010
+6|00000000
+7|10000000
+
+01:23  INFO: Player 1:  game terminated received
+01:23  INFO: You (player 2) lost!

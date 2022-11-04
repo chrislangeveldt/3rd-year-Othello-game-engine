@@ -1,0 +1,88 @@
+00:00  INFO: Client commandline script started
+00:00  INFO: Connecting to localhost:61235
+00:00  INFO: Registering: bar
+00:00  INFO: Refresh requested
+00:05  INFO: 
+Black Score: 4
+White Score: 1
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|***01***
+5|********
+6|********
+7|********
+
+00:05  INFO: Player chose move: 42
+00:09  INFO: 
+Black Score: 5
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|**110***
+5|****0***
+6|********
+7|********
+
+00:09  INFO: Player chose move: 65
+00:13  INFO: 
+Black Score: 7
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|*0000***
+5|****1***
+6|*****1**
+7|********
+
+00:13  INFO: Player chose move: 32
+00:16  INFO: 
+Black Score: 8
+White Score: 3
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|*0000***
+4|*0010***
+5|****1***
+6|*****1**
+7|********
+
+00:16  INFO: Player chose move: 45
+45:27  INFO: 
+Black Score: 11
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|*0000***
+4|*00011**
+5|****0***
+6|*****0**
+7|******0*
+

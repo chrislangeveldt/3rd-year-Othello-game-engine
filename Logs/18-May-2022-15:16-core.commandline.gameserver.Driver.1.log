@@ -1,0 +1,194 @@
+00:00  INFO: GameServer commandline script started
+00:00  INFO: GameServer launched on port 61235
+00:01  INFO: Accepted new connection from /127.0.0.1
+00:01  INFO: Waiting for player name...
+00:01  INFO: Received player name: LobbyHoster_850.7666115244973_1652879790351
+00:01  INFO: Connection to client /127.0.0.1 with name LobbyHoster_850.7666115244973_1652879790351 established
+00:01  INFO: Match received, created lobby mylobby
+00:01  INFO: Now closing connection to /127.0.0.1
+00:01  INFO: Removed player name LobbyHoster_850.7666115244973_1652879790351
+00:02  INFO: Accepted new connection from /127.0.0.1
+00:02  INFO: Accepted new connection from /127.0.0.1
+00:02  INFO: Waiting for player name...
+00:02  INFO: Waiting for player name...
+00:02  INFO: Received player name: bar
+00:02  INFO: Received player name: foo
+00:02  INFO: Connection to client /127.0.0.1 with name bar established
+00:02  INFO: Connection to client /127.0.0.1 with name foo established
+00:02  INFO: Player 0 joined lobby, initiating handshake
+00:02  INFO: Player name for id 0: foo
+00:02  INFO: The number of engines has just been increased to : 1
+00:02  INFO: Removed player name foo
+00:02  INFO: Player 1 joined lobby, initiating handshake
+00:02  INFO: Player name for id 1: bar
+00:02  INFO: The number of engines has just been increased to : 2
+00:02  INFO: Starting game
+00:02  INFO: Removed lobby with name mylobby
+00:02  INFO: Removed player name foo
+00:02  INFO: Removed player name bar
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.othello.OthelloReferee" as "OthelloReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.loa.LOAController" as "LOAController"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.go.GoReferee" as "GoReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.domineering.DomineeringReferee" as "DomineeringReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.tictactoe.TTTReferee" as "TTTReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.bomberman.BMReferee" as "BMReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.mnk.MNKReferee" as "MNKReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.cardGames.uno.game.UnoReferee" as "UnoReferee"
+00:02  INFO: Registering referee "za.ac.sun.cs.ingenious.games.cardGames.hearts.game.HeartsReferee" as "HeartsReferee"
+00:02  INFO: Removed player name bar
+00:02  INFO: ===================
+00:02  INFO: Starting OthelloReferee
+00:02  INFO: ===================
+00:07  INFO: Game state is now:
+00:07  INFO: 
+Black Score: 4
+White Score: 1
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|***01***
+5|********
+6|********
+7|********
+
+00:07  INFO: Game state is now:
+00:07  INFO: 
+Black Score: 3
+White Score: 3
+Next player: black
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|**111***
+5|********
+6|********
+7|********
+
+00:11  INFO: Game state is now:
+00:11  INFO: 
+Black Score: 5
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|**110***
+5|****0***
+6|********
+7|********
+
+00:11  INFO: Game state is now:
+00:11  INFO: 
+Black Score: 4
+White Score: 4
+Next player: black
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|**110***
+5|****1***
+6|*****1**
+7|********
+
+00:15  INFO: Game state is now:
+00:15  INFO: 
+Black Score: 7
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|***00***
+4|*0000***
+5|****1***
+6|*****1**
+7|********
+
+00:15  INFO: Game state is now:
+00:15  INFO: 
+Black Score: 6
+White Score: 4
+Next player: black
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|**100***
+4|*0010***
+5|****1***
+6|*****1**
+7|********
+
+00:18  INFO: Game state is now:
+00:18  INFO: 
+Black Score: 8
+White Score: 3
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|*0000***
+4|*0010***
+5|****1***
+6|*****1**
+7|********
+
+00:18  INFO: Game state is now:
+00:18  INFO: 
+Black Score: 7
+White Score: 5
+Next player: black
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|*0000***
+4|*00111**
+5|****1***
+6|*****1**
+7|********
+
+00:21  INFO: Game state is now:
+00:21  INFO: 
+Black Score: 11
+White Score: 2
+Next player: white
+Board:
+ |01234567
+----------
+0|********
+1|********
+2|***0****
+3|*0000***
+4|*00011**
+5|****0***
+6|*****0**
+7|******0*
+
